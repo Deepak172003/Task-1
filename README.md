@@ -21,3 +21,4 @@ Create a Simple Responsive Landing Page Using HTML &amp; CSS.
 * Unsplash / Google Cloud Storage – For high-quality image
 
   [image](https://github.com/Deepak172003/Task-1/blob/2c98defd4a6fb2acad5abb20733321980dae71d7/Screenshot%20(41).png)
+  [image](https://github.com/Deepak172003/Task-1/blob/bb970f4eb34082a057f95a66d03f0aace2c9e06b/Screenshot%20(42).png)
