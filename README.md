@@ -19,3 +19,5 @@ Create a Simple Responsive Landing Page Using HTML &amp; CSS.
 * CSS3 – Custom styling with Flexbox and Grid layout
 * Font Awesome – For icons (social & UI)
 * Unsplash / Google Cloud Storage – For high-quality image
+
+  [image](https://github.com/Deepak172003/Task-1/blob/2c98defd4a6fb2acad5abb20733321980dae71d7/Screenshot%20(41).png)
