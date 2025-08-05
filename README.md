@@ -25,6 +25,7 @@ Create a Simple Responsive Landing Page Using HTML &amp; CSS.
   [image](https://github.com/Deepak172003/Task-1/blob/272eadcac17d09cfa221a6739662848aeb4eed8d/Screenshot%20(43).png)
   [image](https://github.com/Deepak172003/Task-1/blob/b6ccecd075d9138283dd9a5b7526d6a597c2591e/Screenshot%20(44).png)
   [image](https://github.com/Deepak172003/Task-1/blob/9413f1d9487ecef6febb39b305247bf45751d1d7/Screenshot%20(45).png)
+  [image](https://github.com/Deepak172003/Task-1/blob/0e34d198637af498c74d929f4f2b00ce8739bfdf/Screenshot%20(46).png)
   
   
   
